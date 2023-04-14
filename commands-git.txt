@@ -1,0 +1,7 @@
+CLONER UN REPOSITORY
+git clone "lien du repository"
+
+3 COMMANDES DE PUSH
+git add . 
+git commit -m
+git push
